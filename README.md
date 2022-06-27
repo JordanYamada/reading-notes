@@ -1,7 +1,9 @@
 # My Reading Notes
 
-### Here are my thoughts on Growth Mindset:
+#### Growth Mindset is about recognizing the journey to improvement. 
 
-Growth Mindset is about recognizing the journey. Where you are ***standing*** is not where you must ***stay***. There is always room to move forward.
+- Where you are ***standing*** is not where you must ***stay***. There is always room to move forward.
+- Where there is a will...right? Keep a sense of optimism.
+- 
 
 
