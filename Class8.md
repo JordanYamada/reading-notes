@@ -14,8 +14,7 @@
 - Multiplication assignment	(*=)	x = x * f()
 - Division assignment	(/=)	x = x / f()
 - Remainder assignment	(%=)	x = x % f()
-- Exponentiation assignment	(**=)	x = x ** f()
-- 
+- Exponentiation assignment	(**=)	x = x ** f() 
 - Equal (==)
 - Not equal (!=)
 - Strict equal (===) - operands must be the equal **AND** the same data type
