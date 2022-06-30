@@ -10,3 +10,7 @@
 
 
 ##### Notes to Self:
+- A function is a DRY(don't repeat yourself) code.
+- It is a shortcut so you don't need th write the same code for changing variables.
+- Take a sandwich for example: Defining a function would be defining each step to *build* a sandwich. Invoking the function would be *ordering* a sandwich instead.
+- 
