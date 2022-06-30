@@ -8,7 +8,7 @@
 
 If you are reading this, "Hello". I am Jordan Yamada, and this page is marks an important *first step* on my path as an aspiring software developer. Wish me well, won't you?
 
-Here is my GitHub link: [https://jordanyamada.github.io/reading-notes/](https://jordanyamada.github.io/reading-notes/)
+Here is my GitHub link: [Here](https://github.com/JordanYamada))
 
 ###Class Notes:
 
