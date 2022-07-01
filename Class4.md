@@ -13,3 +13,8 @@
 ##### Notes to Self:
 
 - Wireframing allows you to build the foundation without losing track of the initial design.
+- HTML is where you lay the foundation of the webpage.
+- You can add content to the page, but you have limited means to modify its layout.
+- The h1 element should be at the top of the page.
+- The semantic element that is use to wrap around a text will give that text its meaning.
+- Image elements are self-contained and do not need a closing element.
