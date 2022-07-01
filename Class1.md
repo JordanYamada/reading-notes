@@ -10,3 +10,7 @@
 ##### Notes to Self:
 - **Don't** forget the **SPACE**!!!
 - Capitalization **does** matter when adding a relative link
+- You can add an image following these steps: !, a bracketted description of what the image is, then the image link nested in parenthesis.
+- I can have multiple headers of various degrees. The number of pound-signs show the decrementing degree. 
+- I can make numbered(ordered) list by simply starting a line with a number.
+3 testing 
