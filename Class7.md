@@ -12,7 +12,7 @@
 ##### Notes to Self:
 - The code is run from top to bottom, but Java script can use various control structures, including conditionals, loops and and functions to control the order that the code is run.
 - A function is a DRY(don't repeat yourself) code.
-- It is a shortcut so you don't need th write the same code for changing variables.
+- It is a shortcut so you don't need to write the same code for changing variables.
 - Take a sandwich for example: Defining a function would be defining each step to *build* a sandwich. Invoking the function would be *ordering* a sandwich instead.
 - As a function is self-contained, variables that are declared within do not live outside that function.
 - To bring a variable out of a function, it must be **returned**.
