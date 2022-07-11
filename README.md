@@ -10,7 +10,7 @@ If you are reading this, "Hello". I am Jordan Yamada, and this page is marks an 
 
 Here is my GitHub link: [Here](https://github.com/JordanYamada))
 
-###Class Notes:
+###Class 102 Notes:
 
 - [Class 1](Class1.md)
 - [Class 2](Class2.md)
@@ -20,3 +20,11 @@ Here is my GitHub link: [Here](https://github.com/JordanYamada))
 - [Class 6](Class6.md)
 - [Class 7](Class7.md)
 - [Class 8](Class8.md)
+
+###Class 201 Notes:
+
+- [Class 1](Class2-1.md)
+- [Class 2](Class2-2.md)
+- [Class 3](Class2-3.md)
+- [Class 4](Class2-4.md)
+- [Class 5](Class2-5.md)
