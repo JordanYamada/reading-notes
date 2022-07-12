@@ -1,6 +1,6 @@
 # My Reading Notes
 
-#### Growth Mindset is about recognizing the journey to improvement. 
+### Growth Mindset is about recognizing the journey to improvement. 
 
 - Where we are ***standing*** is not where we must ***stay***. There is always room to move forward.
 - Where there is a will...right? Keep a sense of optimism.
@@ -10,7 +10,7 @@ If you are reading this, "Hello". I am Jordan Yamada, and this page is marks an 
 
 Here is my GitHub link: [Here](https://github.com/JordanYamada))
 
-###Class 102 Notes:
+## Class 102 Notes:
 
 - [Class 1](Class1.md)
 - [Class 2](Class2.md)
@@ -21,7 +21,7 @@ Here is my GitHub link: [Here](https://github.com/JordanYamada))
 - [Class 7](Class7.md)
 - [Class 8](Class8.md)
 
-###Class 201 Notes:
+## Class 201 Notes:
 
 - [Class 1](Class2-1.md)
 - [Class 2](Class2-2.md)
